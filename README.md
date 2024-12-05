@@ -1,5 +1,5 @@
 <!-- Main Bio -->
-# 👋 Hi, my name is Tyler!
+## Hi, my name is Tyler!
 🎓 Recent graduate and looking to get my feet wet in the real world<br>📔 Studied Applied and Computational Mathematics at Florida State University, minored in Computer Science and Astrophysics<br>🖥️ Always looking for new opportunities in the Software/IT space and mainly eyeing positions in Software Development & Data Science
 
 <!-- Links/Socials -->
