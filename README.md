@@ -1,6 +1,5 @@
 <!-- Main Bio -->
-# Welcome to my page, my name is Tyler!
-🎓 Florida State University Applied and Computational Mathematics Graduate<br>🖥️ Interested in System Engineering and Data Science<br>
+🎓 Florida State University Applied and Computational Mathematics Graduate<br>🖥️ Interested in learning about engineering, math, and physics<br>
 
 <!-- Links/Socials -->
 ## 🌐 Socials:
