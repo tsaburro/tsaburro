@@ -1,5 +1,5 @@
 <!-- Main Bio -->
-🎓 Florida State University Applied and Computational Mathematics Graduate<br>🖥️ Interested in learning about Engineering, Math, and Physics<br>
+🎓 Florida State University Applied and Computational Mathematics Graduate<br>🖥️ Enjoy learning, particularly engineering, math, and physics<br>
 
 <!-- Links/Socials -->
 ## 🌐 Socials:
