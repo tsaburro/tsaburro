@@ -1,0 +1,10 @@
+let x = 1
+    while x < 5
+        y = x + 1
+        z = []
+        z = z + push!(y)
+        +x
+    end
+end
+
+print(z)
